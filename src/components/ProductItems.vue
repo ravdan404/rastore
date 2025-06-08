@@ -5,7 +5,7 @@
     <a href="#">
       <img
         class="p-8 rounded-t-lg"
-        src="https://d2j6dbq0eux0bg.cloudfront.net/images/66610504/2636945004.jpg"
+        src="/public/hoodie.png"
         alt="product image"
       />
     </a>
