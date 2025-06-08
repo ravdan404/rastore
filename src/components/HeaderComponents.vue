@@ -13,6 +13,7 @@
         <router-link to="/">Home</router-link>
       </li>
       <li><router-link to="/about">About</router-link></li>
+      <li><router-link to="/upload">Upload</router-link></li>
       <li><router-link to="/user/1">User 1</router-link></li>
       <li><router-link to="/user/2">User 2</router-link></li>
     </ul>
